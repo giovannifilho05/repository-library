@@ -21,6 +21,11 @@ Repositório criado com o objetivo de reunir e listar outros repositórios, site
 - [App Ideas](https://github.com/florinpop17/app-ideas) -  Uma coleção de idéias de aplicativos que podem ser usadas para melhorar suas habilidades de codificação.
 
 
+### Posts
+
+- **REACTJS**
+  - [Como Organizar Projetos em React](https://blog.matheuscastiglioni.com.br/como-organizar-projetos-em-react/) - Começar um projeto React hoje é fácil, mas, e mantê-lo? Será que é só rodar um create-react-app? Na maioria dos projetos o problema acaba sendo a organização 
+
 ### Perguntas e Respostas para Entrevistas.
 
 - [Reactjs Interview Questions](https://github.com/sudheerj/reactjs-interview-questions) - Lista das 500 principais perguntas e respostas da entrevista do ReactJS.
