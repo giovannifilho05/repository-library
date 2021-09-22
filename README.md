@@ -24,7 +24,7 @@ Repositório criado com o objetivo de reunir e listar outros repositórios, site
 ### Posts
 
 - **REACTJS**
-  - [Como Organizar Projetos em React](https://blog.matheuscastiglioni.com.br/como-organizar-projetos-em-react/) - Começar um projeto React hoje é fácil, mas, e mantê-lo? Será que é só rodar um create-react-app? Na maioria dos projetos o problema acaba sendo a organização 
+  - [Como Organizar Projetos em React](https://blog.matheuscastiglioni.com.br/como-organizar-projetos-em-react/) - Começar um projeto React hoje é fácil, mas, e mantê-lo? Será que é só rodar um create-react-app? Na maioria dos projetos o problema acaba sendo a organização.
 
 ### Perguntas e Respostas para Entrevistas.
 
