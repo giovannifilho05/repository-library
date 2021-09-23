@@ -23,6 +23,9 @@ Repositório criado com o objetivo de reunir e listar outros repositórios, site
 
 ### Posts
 
+- **HTML**
+  - [7 atributos HTML úteis que você pode não conhecer](https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn) - Esta é uma lista de atributos HTML que muitos iniciantes não conhecem, mas que pode ser útil. 
+
 - **REACTJS**
   - [Como Organizar Projetos em React](https://blog.matheuscastiglioni.com.br/como-organizar-projetos-em-react/) - Começar um projeto React hoje é fácil, mas, e mantê-lo? Será que é só rodar um create-react-app? Na maioria dos projetos o problema acaba sendo a organização.
 
