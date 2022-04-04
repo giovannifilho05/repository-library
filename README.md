@@ -28,6 +28,7 @@ Repositório criado com o objetivo de reunir e listar outros repositórios, site
 
 - **REACTJS**
   - [Como Organizar Projetos em React](https://blog.matheuscastiglioni.com.br/como-organizar-projetos-em-react/) - Começar um projeto React hoje é fácil, mas, e mantê-lo? Será que é só rodar um create-react-app? Na maioria dos projetos o problema acaba sendo a organização.
+  - [Ocultar o código ReactJS do navegador](https://capscode.hashnode.dev/hide-reactjs-code-from-browser) - Neste post você vai descobrir algo sobre como esconder o código ReactJS no servidor de produção.
 
 ### Perguntas e Respostas para Entrevistas.
 
